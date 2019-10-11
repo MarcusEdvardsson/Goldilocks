@@ -4,6 +4,7 @@
 	padding: 0;
 }
 
+
 /* fonts */
 h1,h2,p {
 	padding: 3rem;
@@ -33,6 +34,10 @@ i {
 	color: white;
 	font-size: 5rem;
 	margin-bottom: 1rem;
+}
+
+button.chairs {
+	display: inline;
 }
 
 section {
@@ -145,3 +150,5 @@ section {
 	align-items: center;
 	justify-content: space-between;
 }
+
+
