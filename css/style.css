@@ -1,0 +1,65 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.woods {
+	background-image: url(../images/slice1.jpg);
+}
+
+.house {
+	background-image: url(../images/slice2.jpg);
+}
+
+.porridge_hot {
+	background-image: url(../images/slice3.jpg)
+}
+
+.porridge_cold {
+	background-image: url(../images/slice4.jpg)
+}
+
+.porridge_perfect {
+	background-image: url(../images/slice5.jpg)
+}
+
+.chairs {
+	background-image: url(../images/slice6.jpg)
+}
+
+.broken_chair {
+	background-image: url(../images/slice7.jpg)
+}
+
+.beds {
+	background-image: url(../images/slice8.jpg)
+}
+
+.beds_perfect {
+	background-image: url(../images/slice9.jpg)
+}
+
+.bears {
+	background-image: url(../images/slice10.jpg)
+}
+
+.bears_chairs {
+	background-image: url(../images/slice11.jpg)
+}
+
+.goldlock_sleep {
+	background-image: url(../images/slice12.jpg)
+}
+
+.gtfo {
+	background-image: url(../images/slice13.jpg)
+}
+
