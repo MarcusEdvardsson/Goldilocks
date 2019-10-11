@@ -4,6 +4,37 @@
 	padding: 0;
 }
 
+/* fonts */
+h1,h2,p {
+	padding: 3rem;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 4rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	font-family: 'Indie Flower',cursive;
+}
+
+p {
+	font-size: 2rem;
+	font-family: 'roboto',sans-serif;
+}
+
+
+
+/* buttons */
+
+i {
+	color: white;
+	font-size: 5rem;
+	margin-bottom: 1rem;
+}
+
 section {
 	height: 100vh;
 	background-size: cover;
@@ -13,57 +44,104 @@ section {
 
 .woods {
 	background-image: url(../images/slice1.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .house {
 	background-image: url(../images/slice2.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .porridge_hot {
-	background-image: url(../images/slice3.jpg)
+	background-image: url(../images/slice3.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .porridge_cold {
-	background-image: url(../images/slice4.jpg)
+	background-image: url(../images/slice4.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .porridge_perfect {
-	background-image: url(../images/slice5.jpg)
+	background-image: url(../images/slice5.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .chairs {
-	background-image: url(../images/slice6.jpg)
+	background-image: url(../images/slice6.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .broken_chair {
-	background-image: url(../images/slice7.jpg)
+	background-image: url(../images/slice7.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .beds {
-	background-image: url(../images/slice8.jpg)
+	background-image: url(../images/slice8.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .beds_perfect {
-	background-image: url(../images/slice9.jpg)
+	background-image: url(../images/slice9.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .bears {
-	background-image: url(../images/slice10.jpg)
+	background-image: url(../images/slice10.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .bears_chairs {
-	background-image: url(../images/slice11.jpg)
+	background-image: url(../images/slice11.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .goldlock_sleep {
-	background-image: url(../images/slice12.jpg)
+	background-image: url(../images/slice12.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .gtfo {
-	background-image: url(../images/slice13.jpg)
+	background-image: url(../images/slice13.jpg);
+	background-image: url(../images/slice12.jpg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
 }
-
-p {
-	font-size: 200px;
-}
-
